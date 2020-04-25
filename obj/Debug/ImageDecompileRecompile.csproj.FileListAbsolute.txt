@@ -1,0 +1,14 @@
+C:\Users\Benjamin\source\repos\ImageToPixelArray\bin\Debug\ImageToPixelArray.exe.config
+C:\Users\Benjamin\source\repos\ImageToPixelArray\bin\Debug\ImageToPixelArray.exe
+C:\Users\Benjamin\source\repos\ImageToPixelArray\bin\Debug\ImageToPixelArray.pdb
+C:\Users\Benjamin\source\repos\ImageToPixelArray\obj\Debug\ImageDecompileRecompile.csprojAssemblyReference.cache
+C:\Users\Benjamin\source\repos\ImageToPixelArray\obj\Debug\ImageDecompileRecompile.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\ImageToPixelArray\obj\Debug\ImageToPixelArray.exe
+C:\Users\Benjamin\source\repos\ImageToPixelArray\obj\Debug\ImageToPixelArray.pdb
+C:\Users\Benjamin\source\repos\ImageDecompileRecompile\bin\Debug\ImageToPixelArray.exe.config
+C:\Users\Benjamin\source\repos\ImageDecompileRecompile\bin\Debug\ImageToPixelArray.exe
+C:\Users\Benjamin\source\repos\ImageDecompileRecompile\bin\Debug\ImageToPixelArray.pdb
+C:\Users\Benjamin\source\repos\ImageDecompileRecompile\obj\Debug\ImageDecompileRecompile.csprojAssemblyReference.cache
+C:\Users\Benjamin\source\repos\ImageDecompileRecompile\obj\Debug\ImageDecompileRecompile.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\ImageDecompileRecompile\obj\Debug\ImageToPixelArray.exe
+C:\Users\Benjamin\source\repos\ImageDecompileRecompile\obj\Debug\ImageToPixelArray.pdb

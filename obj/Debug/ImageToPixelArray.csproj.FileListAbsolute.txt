@@ -1,0 +1,7 @@
+C:\Users\Benjamin\source\repos\ImageToPixelArray\bin\Debug\ImageToPixelArray.exe.config
+C:\Users\Benjamin\source\repos\ImageToPixelArray\bin\Debug\ImageToPixelArray.exe
+C:\Users\Benjamin\source\repos\ImageToPixelArray\bin\Debug\ImageToPixelArray.pdb
+C:\Users\Benjamin\source\repos\ImageToPixelArray\obj\Debug\ImageToPixelArray.csprojAssemblyReference.cache
+C:\Users\Benjamin\source\repos\ImageToPixelArray\obj\Debug\ImageToPixelArray.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\ImageToPixelArray\obj\Debug\ImageToPixelArray.exe
+C:\Users\Benjamin\source\repos\ImageToPixelArray\obj\Debug\ImageToPixelArray.pdb
